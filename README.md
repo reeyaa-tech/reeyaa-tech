@@ -5,7 +5,7 @@
 ## 🛠️ Skills
 
 - Python
-- - Git & GitHub
+- Git & GitHub
 - JavaScript
 - HTML
 - CSS
