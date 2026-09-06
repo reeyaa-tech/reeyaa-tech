@@ -1,6 +1,6 @@
-# Hi, I'm Reeyaa! 👋
+# Heyy, I'm Reeyaa! 👋
 
-🔐 Cybersecurity | 🤖 AI & Automation | Open-source contributor | Web development 
+ Cybersecurity | AI & Automation | Open-source contributor | Web development 
 
 ## 🛠️ Skills
 
@@ -19,5 +19,6 @@
 ## Connect
 You can also connect with me on: 
 Linkedin - (Reeya Pandey) www.linkedin.com/in/reeya-pandey-02378a384
+Mail ID - reeya0184@gmail.com
 
 ✨ Thanks for visiting my profile!
