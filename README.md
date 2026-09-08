@@ -1,6 +1,6 @@
 # Heyy, I'm Reeyaa! 👋
 
- Cybersecurity | AI & Automation | Open-source contributor | Web development 
+ Cybersecurity | AI & Automation | FOSS | Open-source contributor | Web development 
 
 ## 🛠️ Skills
 
